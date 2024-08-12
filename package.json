@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-filesystem",
+  "version": "1.0.0",
+  "description": "API endpoint to create txt file in a folder and retrieve all txt files in folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PraveenKumar263/nodejs-filesystem.git"
+  },
+  "author": "Praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraveenKumar263/nodejs-filesystem/issues"
+  },
+  "homepage": "https://github.com/PraveenKumar263/nodejs-filesystem#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
