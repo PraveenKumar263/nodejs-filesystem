@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/PraveenKumar263/nodejs-filesystem#readme",
   "dependencies": {
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2"
   }
 }
