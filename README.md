@@ -28,4 +28,4 @@ To install the application, follow these steps:
 
 ## Postman API Documentation
 
-[text](https://documenter.getpostman.com/view/37599009/2sA3s9C7kd)
+[Postman Documentation](https://documenter.getpostman.com/view/37599009/2sA3s9C7kd)
